@@ -1,5 +1,0 @@
-ID	Name	gender	Mark 
-1	Liming	M	86 
-2	Sc	M	90 
-3	Gao	M	83  
-
