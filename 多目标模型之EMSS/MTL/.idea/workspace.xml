@@ -5,457 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a315076f-561c-4629-88b9-9538ae43ac81" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../AutoRec/.ipynb_checkpoints/Autorec-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoRec/AutoRec-for-CF/.ipynb_checkpoints/autorec-checkpoint.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoRec/AutoRec-for-CF/.ipynb_checkpoints/data-checkpoint.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoRec/AutoRec-for-CF/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoRec/AutoRec-for-CF/autorec.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoRec/AutoRec-for-CF/data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoRec/AutoRec-for-CF/ml-1m/.ipynb_checkpoints/ratings-checkpoint.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoRec/Autorec.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoRec/Autorec.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoRec/imgs/model.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIEN/.ipynb_checkpoints/DIEN-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIEN/DIEN.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIEN/DIEN.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIEN/data/movie_sample.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIEN/data/movielens_sample.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIEN/imgs/DIEN.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIEN/imgs/N表示" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIEN/imgs/N表示.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIEN/imgs/aux_loss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIEN/imgs/aux说明.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIEN/imgs/output_26_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIEN/imgs/output_38_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIEN/imgs/兴趣抽取.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIEN/imgs/兴趣进化层.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/.ipynb_checkpoints/DIN-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/.ipynb_checkpoints/DIN-checkpoint.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/.ipynb_checkpoints/Demo-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/DIN.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/DIN.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/Demo.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/imgs/.ipynb_checkpoints/SUM-checkpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/imgs/AUC.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/imgs/DIN.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/imgs/SUM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/imgs/act.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/imgs/attention.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/imgs/dice.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/imgs/dice_curve.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/imgs/la.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/imgs/local_attention" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/imgs/local_attention.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/imgs/loss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/imgs/mba.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/imgs/output_16_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/imgs/output_31_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/imgs/output_32_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DIN/imgs/激活.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Deep Cross/.ipynb_checkpoints/Deep Cross-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Deep Cross/Deep Cross.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepFM/.ipynb_checkpoints/AFM-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepFM/.ipynb_checkpoints/DeepFM-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepFM/AFM.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepFM/DeepFM.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepFM/DeepFM.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepFM/imgs/.ipynb_checkpoints/dense_value_list-checkpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepFM/imgs/.ipynb_checkpoints/sparse_embedding_list-checkpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepFM/imgs/AFM" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepFM/imgs/AFM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepFM/imgs/DeepFM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepFM/imgs/FM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepFM/imgs/FM1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepFM/imgs/att.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepFM/imgs/cal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepFM/imgs/dense_value_list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepFM/imgs/dense_value_list.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepFM/imgs/fram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepFM/imgs/output_34_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepFM/imgs/sparse_embedding_list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepFM/imgs/sparse_embedding_list.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepWalk/.ipynb_checkpoints/deepwalk-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepWalk/.ipynb_checkpoints/neteorkx-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepWalk/deepwalk.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepWalk/deepwalk.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepWalk/grid.edgelist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepWalk/imgs/.ipynb_checkpoints/test_g-checkpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepWalk/imgs/.ipynb_checkpoints/test_g1-checkpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepWalk/imgs/deepwalk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepWalk/imgs/deepwalk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepWalk/imgs/deepwalk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepWalk/imgs/output_22_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepWalk/imgs/output_24_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepWalk/imgs/test_g.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepWalk/imgs/test_g1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepWalk/imgs/算法流程.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeepWalk/neteorkx.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EGES/EGES/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/.idea/MultiTaskLearning.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/.idea/other.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/.ipynb_checkpoints/ESSM-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/.ipynb_checkpoints/多目标学习-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/ESSM.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/data/.ipynb_checkpoints/adult-checkpoint.names" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/data/adult.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/data/adult.names" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/data/adult.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/imgs/ESMM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/imgs/mmoe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636181062.gavin-X550JX.22474.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636181063.gavin-X550JX.22474.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636460295.gavin-X550JX.10780.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636460337.gavin-X550JX.10780.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636460367.gavin-X550JX.20628.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636460367.gavin-X550JX.20628.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636460614.gavin-X550JX.20628.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636460631.gavin-X550JX.20628.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636460918.gavin-X550JX.20628.4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636460919.gavin-X550JX.20628.5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636460983.gavin-X550JX.20628.6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636461305.gavin-X550JX.20628.7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636462874.gavin-X550JX.20628.8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636462882.gavin-X550JX.20628.9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636464075.gavin-X550JX.20628.10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636464077.gavin-X550JX.20628.11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636464171.gavin-X550JX.20628.12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636464172.gavin-X550JX.20628.13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636464421.gavin-X550JX.20628.14" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636464423.gavin-X550JX.20628.15" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636464471.gavin-X550JX.20628.16" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636464472.gavin-X550JX.20628.17" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636464692.gavin-X550JX.20628.18" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636464693.gavin-X550JX.20628.19" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636466115.gavin-X550JX.20628.20" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636466320.gavin-X550JX.20628.21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636466349.gavin-X550JX.20628.22" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636466357.gavin-X550JX.20628.23" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636466445.gavin-X550JX.20628.24" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636466446.gavin-X550JX.20628.25" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1636466456.gavin-X550JX.20628.26" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1637497926.gavin-X550JX.22138.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1637497927.gavin-X550JX.22138.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1637497927.gavin-X550JX.22138.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1637498038.gavin-X550JX.22138.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1637498912.gavin-X550JX.22138.4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1637498984.gavin-X550JX.22138.5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1637498986.gavin-X550JX.22138.6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1637499187.gavin-X550JX.22138.7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1637499188.gavin-X550JX.22138.8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1637500030.gavin-X550JX.22138.9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1637500706.gavin-X550JX.22138.10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1637500709.gavin-X550JX.22138.11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1637500737.gavin-X550JX.22138.12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1637500748.gavin-X550JX.22138.13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1637500750.gavin-X550JX.22138.14" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1637500764.gavin-X550JX.22138.15" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1637500842.gavin-X550JX.29799.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1637500883.gavin-X550JX.29799.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1637500885.gavin-X550JX.29799.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1637580243.gavin-X550JX.11124.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1637580245.gavin-X550JX.11124.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/log/events.out.tfevents.1637580245.gavin-X550JX.11124.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/model/.ipynb_checkpoints/esmm-checkpoint.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/model/.ipynb_checkpoints/mmoe-checkpoint.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/model/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/model/esmm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/model/mmoe.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EMSS多目标任务优化/MTL/多目标学习.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/.ipynb_checkpoints/FMM算法-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/.ipynb_checkpoints/FM算法-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/.ipynb_checkpoints/FM算法-checkpoint.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/.ipynb_checkpoints/FM系列算法-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/.ipynb_checkpoints/model-checkpoint.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/.ipynb_checkpoints/output-checkpoint.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/FMM算法.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/FM算法.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/FM算法.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/FM系列算法.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/criteo_ctr/README.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/criteo_ctr/run_demo_ctr.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/criteo_ctr/run_demo_ctr.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/criteo_ctr/run_demo_ctr.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/criteo_ctr/small_test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/criteo_ctr/small_test.txt.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/criteo_ctr/small_train.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/criteo_ctr/small_train.txt.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/higgs/README.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/higgs/higgs-test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/higgs/higgs-train.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/higgs/run_higgs.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/higgs/run_higgs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/higgs/run_higgs.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/higgs/run_higgs_pandas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/mushroom/README.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/mushroom/agaricus_test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/mushroom/agaricus_train.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/mushroom/run_demo_mushroom.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/mushroom/run_demo_mushroom.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/mushroom/run_demo_mushroom.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/scikit_learn_demo/.ipynb_checkpoints/example_FFM_criteo-checkpoint.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/scikit_learn_demo/README.dst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/scikit_learn_demo/example_FFM_criteo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/scikit_learn_demo/example_FM_wine.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/scikit_learn_demo/example_LR_iris.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/titanic/.ipynb_checkpoints/titanic_train-checkpoint.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/titanic/README.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/titanic/run_demo_titanic.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/titanic/run_demo_titanic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/titanic/run_demo_titanic.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/titanic/run_titanic_no_cv.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/titanic/run_titanic_no_cv_pandas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/titanic/titanic_test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/titanic/titanic_test.txt.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/titanic/titanic_train.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/classification/titanic/titanic_train.txt.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/regression/house_price/README.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/regression/house_price/house_price_test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/regression/house_price/house_price_train.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/regression/house_price/run_demo_house_price.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/regression/house_price/run_demo_house_price.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/regression/house_price/run_demo_house_price.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/regression/house_price/run_house_no_cv.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/regression/house_price/run_house_no_cv.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/regression/house_price/run_house_no_cv.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/data/regression/house_price/run_house_no_cv_pandas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/imgs/.ipynb_checkpoints/FM1-checkpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/imgs/.ipynb_checkpoints/FM2-checkpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/imgs/.ipynb_checkpoints/LR-checkpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/imgs/1803066-1ed9656d73e786ef.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/imgs/FM1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/imgs/FM2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/imgs/LR.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/imgs/cal.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/model.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/model.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FM系列算法/点击率预估算法：FM与FFM.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../GBDT+LR/.ipynb_checkpoints/GBDT+LR-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../GBDT+LR/.ipynb_checkpoints/GBDT+LR-checkpoint.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../GBDT+LR/GBDT+LR.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../GBDT+LR/GBDT+LR.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../GBDT+LR/imgs/model.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../GBDT+LR/imgs/roc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../GBDT+LR/imgs/评价指标.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../GBDT+LR/imgs/评价指标.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MMOE/.ipynb_checkpoints/MMOE-Copy1-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MMOE/.ipynb_checkpoints/MMOE-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MMOE/MMOE-Copy1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MMOE/MMOE.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MMOE/data/census-income.data.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MMOE/data/census-income.test.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MovieLen数据处理/.ipynb_checkpoints/数据处理-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MovieLen数据处理/data/.ipynb_checkpoints/ratings-checkpoint.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MovieLen数据处理/data/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MovieLen数据处理/data/movies.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MovieLen数据处理/data/ratings.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MovieLen数据处理/data/users.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MovieLen数据处理/数据处理.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NeuralCF/.ipynb_checkpoints/NCF-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NeuralCF/NCF.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NeuralCF/NCF.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NeuralCF/imgs/fusion.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NeuralCF/imgs/model.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/.ipynb_checkpoints/node2vec-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/data/flight/brazil-airports.edgelist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/data/flight/europe-airports.edgelist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/data/flight/labels-brazil-airports.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/data/flight/labels-europe-airports.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/data/flight/labels-usa-airports.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/data/flight/usa-airports.edgelist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/data/wiki/Wiki_category.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/data/wiki/Wiki_edgelist.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/data/wiki/wiki_labels.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/.ipynb_checkpoints/alias-1-checkpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/.ipynb_checkpoints/p-checkpoint.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/.ipynb_checkpoints/q-checkpoint.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/.ipynb_checkpoints/跳转概率-checkpoint.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/.ipynb_checkpoints/跳转概率-checkpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/.ipynb_checkpoints/跳转概率-checkpoint.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/.ipynb_checkpoints/跳转概率-checkpoint.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/alias" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/alias-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/alias-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/alias-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/output_13_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/output_17_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/p.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/p.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/q.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/q.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/跳转概率" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/跳转概率.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/跳转概率.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/跳转概率.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/imgs/跳转概率.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/node2vec.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Node2vec/node2vec.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/.ipynb_checkpoints/PNN-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/.ipynb_checkpoints/PNN-checkpoint.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN网络/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN网络/.idea/PNN.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN网络/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN网络/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN网络/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN网络/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN网络/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN网络/data/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN网络/data/process.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN网络/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN网络/model/DNN.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN网络/model/PNN.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN网络/model/ProductLayer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN网络/model/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN网络/venv/bin/activate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN网络/venv/bin/activate.csh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN网络/venv/bin/activate.fish" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN网络/venv/bin/python" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN网络/venv/bin/python3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN网络/venv/bin/python3.6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN网络/venv/lib64" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/PNN网络/venv/pyvenv.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/checkpoints/PNN.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/data/process/.ipynb_checkpoints/train_set-checkpoint.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/data/process/test_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/data/process/train_set.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/data/process/val_set.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/data/raw/test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/data/raw/train.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/imgs/output_48_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/imgs/pnn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/imgs/pnn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/imgs/pnn_net.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/imgs/produnct" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/imgs/内积.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PNN/imgs/外积运算.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Wide&amp;Deep/.ipynb_checkpoints/Wide&amp;Deep-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Wide&amp;Deep/.ipynb_checkpoints/Wide&amp;Deep-checkpoint.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Wide&amp;Deep/.ipynb_checkpoints/代码结构-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Wide&amp;Deep/.ipynb_checkpoints/学习-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Wide&amp;Deep/Wide&amp;Deep.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Wide&amp;Deep/Wide&amp;Deep.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Wide&amp;Deep/checkpoints/WideDeep.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Wide&amp;Deep/data/process/feature_info.npy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Wide&amp;Deep/data/process/test_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Wide&amp;Deep/data/process/train_set.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Wide&amp;Deep/data/process/val_set.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Wide&amp;Deep/data/raw/.ipynb_checkpoints/criteo_sample-checkpoint.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Wide&amp;Deep/data/raw/criteo_sample.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Wide&amp;Deep/imgs/joint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Wide&amp;Deep/imgs/model.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Wide&amp;Deep/imgs/model1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Wide&amp;Deep/imgs/output_42_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Wide&amp;Deep/runs/Apr22_16-36-14_gavin-X550JX/events.out.tfevents.1619080574.gavin-X550JX.6376.14" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Wide&amp;Deep/runs/Apr22_16-37-11_gavin-X550JX/events.out.tfevents.1619080631.gavin-X550JX.6376.15" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Wide&amp;Deep/代码结构.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Wide&amp;Deep/学习.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/.ipynb_checkpoints/Embedding学习-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/.ipynb_checkpoints/Embedding的理解-checkpoint.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/Embedding学习.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/imgs/.ipynb_checkpoints/emb_net-checkpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/imgs/.ipynb_checkpoints/in_the_name_of_people_segment-checkpoint.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/imgs/DeepinScreenshot_select-area_20210117161600.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/imgs/DeepinScreenshot_select-area_20210117161645.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/imgs/dataset.npy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/imgs/emb_net.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/imgs/in_the_name_of_people.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/imgs/in_the_name_of_people_segment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/imgs/min_count.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/imgs/neg_sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/imgs/neg_sample.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/imgs/negs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/imgs/net.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/imgs/output_10_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/imgs/output_37_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/imgs/output_63_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/imgs/output_9_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/imgs/sample.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/imgs/window.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Word2vec/推荐系统之Word2vec.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hadoop学习/.idea/hadoop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hadoop学习/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hadoop学习/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hadoop学习/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hadoop学习/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hadoop学习/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hadoop学习/TopN.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hadoop学习/mapreduce.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hadoop学习/outpt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hadoop学习/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hadoop学习/student.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hadoop学习/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../协同滤波算法/.ipynb_checkpoints/协同滤波算法-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../协同滤波算法/.ipynb_checkpoints/基于内容的推荐算法-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../协同滤波算法/.ipynb_checkpoints/基于回归的算法的CF-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../协同滤波算法/data/.ipynb_checkpoints/README-checkpoint.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../协同滤波算法/data/.ipynb_checkpoints/links-checkpoint.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../协同滤波算法/data/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../协同滤波算法/data/links.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../协同滤波算法/data/movies.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../协同滤波算法/data/ratings.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../协同滤波算法/data/tags.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../协同滤波算法/imgs/similarity_calc15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../协同滤波算法/imgs/similarity_calc16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../协同滤波算法/imgs/基于物品的协同过滤推荐.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../协同滤波算法/imgs/基于物品的协同过滤推荐1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../协同滤波算法/imgs/基于用户的协同过滤推荐.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../协同滤波算法/imgs/基于用户的协同过滤推荐1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../协同滤波算法/协同滤波算法 .md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../协同滤波算法/协同滤波算法.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../协同滤波算法/基于内容的推荐算法.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../协同滤波算法/基于协同过滤的电影推荐.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../协同滤波算法/基于回归的算法的CF.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/.ipynb_checkpoints/YoutubeDNN-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/.ipynb_checkpoints/faiss库的使用-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/.ipynb_checkpoints/preprocess-checkpoint.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/.ipynb_checkpoints/新闻推荐之Baseline-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/.ipynb_checkpoints/新闻推荐之【排序模型＋模型融合】-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/.ipynb_checkpoints/新闻推荐之多路召回-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/.ipynb_checkpoints/新闻推荐之数据分析-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/.ipynb_checkpoints/新闻推荐之特征工程-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/YoutubeDNN.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/faiss库的使用.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/imgs/.ipynb_checkpoints/17393f3dbdbe7a90-checkpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/imgs/.ipynb_checkpoints/Screenshot from 2020-12-18 15-50-37-checkpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/imgs/.ipynb_checkpoints/image-20201111160516562-checkpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/imgs/.ipynb_checkpoints/字段-checkpoint.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/imgs/.ipynb_checkpoints/数据分布情况-checkpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/imgs/.ipynb_checkpoints/数据分布情况-checkpoint.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/imgs/17393f3dbdbe7a90.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/imgs/17393f42d7e616a3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/imgs/Boxplot_vs_PDF.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/imgs/Screenshot from 2020-12-18 15-50-37.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/imgs/boxplot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/imgs/image-20201111160516562.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/imgs/item.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/imgs/字段.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/imgs/数据分布情况.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/imgs/数据分布情况.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/preprocess.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/新闻推荐之Baseline.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/新闻推荐之【排序模型＋模型融合】.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/新闻推荐之多路召回.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/新闻推荐之数据分析.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新闻推荐/新闻推荐之特征工程.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../矩阵分解算法/.ipynb_checkpoints/LFM算法实现-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../矩阵分解算法/LFM算法实现.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../矩阵分解算法/LFM算法实现.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../矩阵分解算法/data/ratings.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../矩阵分解算法/imgs/.ipynb_checkpoints/LFM矩阵分解图解-checkpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../矩阵分解算法/imgs/LFM矩阵分解图解.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../矩阵分解算法/imgs/SVD.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../矩阵分解算法/imgs/output_9_0.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多目标模型之应用实战/MTL/.ipynb_checkpoints/多目标学习-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多目标模型之应用实战/MTL/imgs/ESMM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多目标模型之应用实战/MTL/imgs/mmoe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多目标模型之应用实战/MTL/imgs/ple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多目标模型之应用实战/MTL/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../多目标模型之应用实战/MTL/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多目标模型之应用实战/MTL/model/ple.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../多目标模型之应用实战/MTL/model/ple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多目标模型之应用实战/MTL/多目标学习.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -492,7 +50,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunManager" selected="Python.ple">
+  <component name="RunManager" selected="Python.main">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="MultiTaskLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -546,13 +104,13 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -563,6 +121,9 @@
       <module name="MultiTaskLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -582,6 +143,9 @@
       <module name="MultiTaskLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -624,6 +188,8 @@
       <workItem from="1636551201383" duration="603000" />
       <workItem from="1636588000267" duration="893000" />
       <workItem from="1639272819441" duration="1655000" />
+      <workItem from="1639485931472" duration="114000" />
+      <workItem from="1639742282142" duration="43000" />
     </task>
     <servers />
   </component>
@@ -647,6 +213,11 @@
           <url>file://$PROJECT_DIR$/model/ple.py</url>
           <line>35</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
