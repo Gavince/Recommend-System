@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a315076f-561c-4629-88b9-9538ae43ac81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../多目标模型之应用实战/MTL/.ipynb_checkpoints/多目标学习-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../多目标模型之应用实战/MTL/imgs/ESMM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../多目标模型之应用实战/MTL/imgs/mmoe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../多目标模型之应用实战/MTL/imgs/ple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../多目标模型之应用实战/MTL/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../多目标模型之应用实战/MTL/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../多目标模型之应用实战/MTL/model/ple.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../多目标模型之应用实战/MTL/model/ple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../多目标模型之应用实战/MTL/多目标学习.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../多目标模型之应用实战/MTL/README/多目标学习.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../多目标模型之应用实战/MTL/README/多目标学习.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,6 +184,7 @@
       <workItem from="1639272819441" duration="1655000" />
       <workItem from="1639485931472" duration="114000" />
       <workItem from="1639742282142" duration="43000" />
+      <workItem from="1640177715346" duration="551000" />
     </task>
     <servers />
   </component>
@@ -216,7 +211,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>10</line>
+          <line>8</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>

@@ -7,3 +7,4 @@
 from esmm import ESMM
 from mmoe import MMoE
 from ple import PLE
+from sharedbottom import SharedBottom
