@@ -8,11 +8,7 @@ import argparse
 
 
 def get_parse():
-    """
-    设置模型参数
-    :return:
-    """
-    parse = argparse.ArgumentParser("Define model's parse")
+    parse = argparse.ArgumentParser(description="Define model's parse")
     parse.add_argument("--model", default="SharedBottom", type=str, choices=["SharedBottom", "ESMM", "MMoE", "PLE"], help="MTL模型选择")
     parse.add_argument("--use_gpu", default=True, type=bool, choices=[True, False], help="是否开启GPU训练")
     parse.add_argument("--batch_size", default=128, type=int, help="批量个数")
@@ -22,6 +18,9 @@ def get_parse():
     parse.add_argument("--seed", default=0, type=bool, help="设置随机数")
     parse.add_argument("--use_benchmark", default=False, choices=[False, True],type=bool)
     parse.add_argument("--epochs", default=100, type=int, help="迭代次数")
+    parse.add_argument("--log_dir", default="./log", type=str, help="日志数据位置")
+    parse.add_argument("--resume", default=False, type=bool, help="断点续传")
+    parse.add_argument("--checkpoint", default=50, type=int, help="保存间隔")
 
     return parse.parse_args()
 
