@@ -26,7 +26,7 @@
 
 ### Embedding模型之YoutubeDNN
 
-论文地址：[https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
+论文地址：[Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
 
 ## 粗排阶段
 
@@ -111,6 +111,10 @@ Estimating Post-Click Conversion Rate](https://sci-hub.ren/https://dl.acm.org/do
 
 论文地址：[Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts](https://dl.acm.org/doi/abs/10.1145/3219819.3220007)
 
+### 多目标之模型之Youtube
+
+论文地址：[Recommending what video to watch next: a multitask ranking system](https://dl.acm.org/doi/10.1145/3298689.3346997)
+
 ### 多目标模型之PLE
 
 论文地址：[Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations](https://dl.acm.org/doi/abs/10.1145/3383313.3412236)
@@ -125,6 +129,8 @@ Estimating Post-Click Conversion Rate](https://sci-hub.ren/https://dl.acm.org/do
 [DeepCTR-Torch](https://github.com/shenweichen/DeepCTR-Torch)
 
 [推荐系统技术文章合集](https://github.com/cbamls/AI_Tutorial)
+
+[从零开始了解推荐系统全貌](https://zhuanlan.zhihu.com/p/259985388)
 
 [推荐系统技术演进趋势：从召回到排序再到重排](https://lumingdong.cn/technology-evolution-trend-of-recommendation-system.html)
 
