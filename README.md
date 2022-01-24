@@ -1,6 +1,8 @@
 # 深度学习推荐系统
 
 > 学习并整理一些经典的推荐系统算法
+![rec-overview](./总结/imgs/rec-overview.png)
+
 ## 召回阶段
 
 **目标**：主要根据用户部分特征，从海量的物品库里，快速找回一小部分用户潜在感兴趣的物品，然后交给排序环节，
@@ -124,7 +126,9 @@ Estimating Post-Click Conversion Rate](https://sci-hub.ren/https://dl.acm.org/do
 待更新......
 
 ## 相关资料
-[DeepCTR](https://github.com/shenweichen/DeepCTR/tree/master/deepctr/models/multitask)
+[DeepCTR](https://github.com/shenweichen/DeepCTR)
+
+[PaddleRec](https://github.com/PaddlePaddle/PaddleRec)
 
 [DeepCTR-Torch](https://github.com/shenweichen/DeepCTR-Torch)
 
