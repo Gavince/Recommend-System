@@ -47,6 +47,10 @@
 ### 精排模型之MF
 
 论文地址：[Matrix Factorization Techniques For Recommender Systems](https://sci-hub.ren/https://ieeexplore.ieee.org/abstract/document/5197422/)
+### 精排模型之LR
+
+论文地址：[Predicting Clicks:
+Estimating the Click-Through Rate for New Ads](https://dl.acm.org/doi/pdf/10.1145/1242572.1242643)
 
 ### 精排模型之FM
 
