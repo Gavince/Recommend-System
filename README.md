@@ -125,11 +125,16 @@ Estimating Post-Click Conversion Rate](https://sci-hub.ren/https://dl.acm.org/do
 
 论文地址：[Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations](https://dl.acm.org/doi/abs/10.1145/3383313.3412236)
 
+### 参考资料
+
+
+
 ## 重排阶段
 
 待更新......
 
 ## 相关资料
+
 [DeepCTR](https://github.com/shenweichen/DeepCTR)
 
 [PaddleRec](https://github.com/PaddlePaddle/PaddleRec)
